@@ -1,7 +1,7 @@
 # Malaysia-Analytical-Business-Challenge
 
-•	Competed in a national-level business analytics competition as a team of 5.
-•	Awarded Silver for presenting data-driven business insights and solutions. 
+-	Competed in a national-level business analytics competition as a team of 5.
+- Awarded Silver for presenting data-driven business insights and solutions. 
 
 🏆 Project Summary: Digital Transformation of Tradex Retail Chain
 This project outlines a strategic plan to digitally transform Tradex, a traditional retail chain in Malaysia facing declining sales due to competition from online retailers. The solution provides a detailed roadmap to integrate digital technologies, enhance customer experience, and improve operational efficiency.
